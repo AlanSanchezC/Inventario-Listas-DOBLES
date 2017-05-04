@@ -1,0 +1,93 @@
+c:\users\20121038\documents\visual studio 2015\Projects\ControlDeInventario\ControlDeInventario\bin\Debug\ControlDeInventario.exe.config
+c:\users\20121038\documents\visual studio 2015\Projects\ControlDeInventario\ControlDeInventario\bin\Debug\ControlDeInventario.exe
+c:\users\20121038\documents\visual studio 2015\Projects\ControlDeInventario\ControlDeInventario\bin\Debug\ControlDeInventario.pdb
+c:\users\20121038\documents\visual studio 2015\Projects\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.csprojResolveAssemblyReference.cache
+c:\users\20121038\documents\visual studio 2015\Projects\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.Form1.resources
+c:\users\20121038\documents\visual studio 2015\Projects\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.Properties.Resources.resources
+c:\users\20121038\documents\visual studio 2015\Projects\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.csproj.GenerateResource.Cache
+c:\users\20121038\documents\visual studio 2015\Projects\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.exe
+c:\users\20121038\documents\visual studio 2015\Projects\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.pdb
+F:\ControlDeInventario\ControlDeInventario\bin\Debug\ControlDeInventario.exe.config
+F:\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.exe
+F:\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.pdb
+F:\ControlDeInventario\ControlDeInventario\bin\Debug\ControlDeInventario.exe
+F:\ControlDeInventario\ControlDeInventario\bin\Debug\ControlDeInventario.pdb
+F:\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.csprojResolveAssemblyReference.cache
+F:\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.Form1.resources
+F:\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.Properties.Resources.resources
+F:\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.csproj.GenerateResource.Cache
+E:\ControlDeInventario\ControlDeInventario\bin\Debug\ControlDeInventario.exe.config
+E:\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.exe
+E:\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.pdb
+E:\ControlDeInventario\ControlDeInventario\bin\Debug\ControlDeInventario.exe
+E:\ControlDeInventario\ControlDeInventario\bin\Debug\ControlDeInventario.pdb
+E:\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.csprojResolveAssemblyReference.cache
+E:\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.Form1.resources
+E:\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.Properties.Resources.resources
+E:\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\ControlDeInventario\ControlDeInventario\bin\Debug\ControlDeInventario.exe.config
+\\Mac\Home\Documents\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.exe
+\\Mac\Home\Documents\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.pdb
+\\Mac\Home\Documents\ControlDeInventario\ControlDeInventario\bin\Debug\ControlDeInventario.exe
+\\Mac\Home\Documents\ControlDeInventario\ControlDeInventario\bin\Debug\ControlDeInventario.pdb
+\\Mac\Home\Documents\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.Form1.resources
+\\Mac\Home\Documents\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.Properties.Resources.resources
+\\Mac\Home\Documents\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.csproj.GenerateResource.Cache
+E:\ControlDeInventarioLISTAS\ControlDeInventario\bin\Debug\ControlDeInventario.exe.config
+E:\ControlDeInventarioLISTAS\ControlDeInventario\obj\Debug\ControlDeInventario.exe
+E:\ControlDeInventarioLISTAS\ControlDeInventario\obj\Debug\ControlDeInventario.pdb
+E:\ControlDeInventarioLISTAS\ControlDeInventario\obj\Debug\ControlDeInventario.csprojResolveAssemblyReference.cache
+E:\ControlDeInventarioLISTAS\ControlDeInventario\obj\Debug\ControlDeInventario.Form1.resources
+E:\ControlDeInventarioLISTAS\ControlDeInventario\obj\Debug\ControlDeInventario.Properties.Resources.resources
+E:\ControlDeInventarioLISTAS\ControlDeInventario\obj\Debug\ControlDeInventario.csproj.GenerateResource.Cache
+E:\ControlDeInventarioLISTAS\ControlDeInventario\bin\Debug\ControlDeInventario.exe
+E:\ControlDeInventarioLISTAS\ControlDeInventario\bin\Debug\ControlDeInventario.pdb
+\\Mac\Home\Documents\ControlDeInventarioLISTAS\ControlDeInventario\bin\Debug\ControlDeInventario.exe.config
+\\Mac\Home\Documents\ControlDeInventarioLISTAS\ControlDeInventario\obj\Debug\ControlDeInventario.exe
+\\Mac\Home\Documents\ControlDeInventarioLISTAS\ControlDeInventario\obj\Debug\ControlDeInventario.pdb
+\\Mac\Home\Documents\ControlDeInventarioLISTAS\ControlDeInventario\bin\Debug\ControlDeInventario.exe
+\\Mac\Home\Documents\ControlDeInventarioLISTAS\ControlDeInventario\bin\Debug\ControlDeInventario.pdb
+\\Mac\Home\Documents\ControlDeInventarioLISTAS\ControlDeInventario\obj\Debug\ControlDeInventario.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\ControlDeInventarioLISTAS\ControlDeInventario\obj\Debug\ControlDeInventario.Form1.resources
+\\Mac\Home\Documents\ControlDeInventarioLISTAS\ControlDeInventario\obj\Debug\ControlDeInventario.Properties.Resources.resources
+\\Mac\Home\Documents\ControlDeInventarioLISTAS\ControlDeInventario\obj\Debug\ControlDeInventario.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\4toSemestre\Estructura de Datos\ControlDeInventarioLISTAS\ControlDeInventario\bin\Debug\ControlDeInventario.exe.config
+\\Mac\Home\Documents\4toSemestre\Estructura de Datos\ControlDeInventarioLISTAS\ControlDeInventario\obj\Debug\ControlDeInventario.exe
+\\Mac\Home\Documents\4toSemestre\Estructura de Datos\ControlDeInventarioLISTAS\ControlDeInventario\obj\Debug\ControlDeInventario.pdb
+\\Mac\Home\Documents\4toSemestre\Estructura de Datos\ControlDeInventarioLISTAS\ControlDeInventario\bin\Debug\ControlDeInventario.exe
+\\Mac\Home\Documents\4toSemestre\Estructura de Datos\ControlDeInventarioLISTAS\ControlDeInventario\bin\Debug\ControlDeInventario.pdb
+\\Mac\Home\Documents\4toSemestre\Estructura de Datos\ControlDeInventarioLISTAS\ControlDeInventario\obj\Debug\ControlDeInventario.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\4toSemestre\Estructura de Datos\ControlDeInventarioLISTAS\ControlDeInventario\obj\Debug\ControlDeInventario.Form1.resources
+\\Mac\Home\Documents\4toSemestre\Estructura de Datos\ControlDeInventarioLISTAS\ControlDeInventario\obj\Debug\ControlDeInventario.Properties.Resources.resources
+\\Mac\Home\Documents\4toSemestre\Estructura de Datos\ControlDeInventarioLISTAS\ControlDeInventario\obj\Debug\ControlDeInventario.csproj.GenerateResource.Cache
+E:\ControlDeInventarioLISTAS+Inv\ControlDeInventario\bin\Debug\ControlDeInventario.exe.config
+E:\ControlDeInventarioLISTAS+Inv\ControlDeInventario\obj\Debug\ControlDeInventario.exe
+E:\ControlDeInventarioLISTAS+Inv\ControlDeInventario\obj\Debug\ControlDeInventario.pdb
+E:\ControlDeInventarioLISTAS+Inv\ControlDeInventario\bin\Debug\ControlDeInventario.exe
+E:\ControlDeInventarioLISTAS+Inv\ControlDeInventario\bin\Debug\ControlDeInventario.pdb
+E:\ControlDeInventarioLISTAS+Inv\ControlDeInventario\obj\Debug\ControlDeInventario.csprojResolveAssemblyReference.cache
+E:\ControlDeInventarioLISTAS+Inv\ControlDeInventario\obj\Debug\ControlDeInventario.Form1.resources
+E:\ControlDeInventarioLISTAS+Inv\ControlDeInventario\obj\Debug\ControlDeInventario.Properties.Resources.resources
+E:\ControlDeInventarioLISTAS+Inv\ControlDeInventario\obj\Debug\ControlDeInventario.csproj.GenerateResource.Cache
+F:\ControlDeInventarioLISTAS+Inv\ControlDeInventario\bin\Debug\ControlDeInventario.exe.config
+F:\ControlDeInventarioLISTAS+Inv\ControlDeInventario\obj\Debug\ControlDeInventario.exe
+F:\ControlDeInventarioLISTAS+Inv\ControlDeInventario\obj\Debug\ControlDeInventario.pdb
+F:\ControlDeInventarioLISTAS+Inv\ControlDeInventario\bin\Debug\ControlDeInventario.exe
+F:\ControlDeInventarioLISTAS+Inv\ControlDeInventario\bin\Debug\ControlDeInventario.pdb
+F:\ControlDeInventarioLISTAS+Inv\ControlDeInventario\obj\Debug\ControlDeInventario.csprojResolveAssemblyReference.cache
+F:\ControlDeInventarioLISTAS+Inv\ControlDeInventario\obj\Debug\ControlDeInventario.Form1.resources
+F:\ControlDeInventarioLISTAS+Inv\ControlDeInventario\obj\Debug\ControlDeInventario.Properties.Resources.resources
+F:\ControlDeInventarioLISTAS+Inv\ControlDeInventario\obj\Debug\ControlDeInventario.csproj.GenerateResource.Cache
+F:\ControlDeInventarioLISTAS-DOBLES\ControlDeInventario\bin\Debug\ControlDeInventario.exe.config
+F:\ControlDeInventarioLISTAS-DOBLES\ControlDeInventario\obj\Debug\ControlDeInventario.exe
+F:\ControlDeInventarioLISTAS-DOBLES\ControlDeInventario\obj\Debug\ControlDeInventario.pdb
+\\Mac\Home\Documents\4toSemestre\Estructura de Datos\ControlDeInventarioLISTAS-DOBLES\ControlDeInventario\bin\Debug\ControlDeInventario.exe.config
+\\Mac\Home\Documents\4toSemestre\Estructura de Datos\ControlDeInventarioLISTAS-DOBLES\ControlDeInventario\obj\Debug\ControlDeInventario.exe
+\\Mac\Home\Documents\4toSemestre\Estructura de Datos\ControlDeInventarioLISTAS-DOBLES\ControlDeInventario\obj\Debug\ControlDeInventario.pdb
+\\Mac\Home\Documents\4toSemestre\Estructura de Datos\ControlDeInventarioLISTAS-DOBLES\ControlDeInventario\bin\Debug\ControlDeInventario.exe
+\\Mac\Home\Documents\4toSemestre\Estructura de Datos\ControlDeInventarioLISTAS-DOBLES\ControlDeInventario\bin\Debug\ControlDeInventario.pdb
+\\Mac\Home\Documents\4toSemestre\Estructura de Datos\ControlDeInventarioLISTAS-DOBLES\ControlDeInventario\obj\Debug\ControlDeInventario.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\4toSemestre\Estructura de Datos\ControlDeInventarioLISTAS-DOBLES\ControlDeInventario\obj\Debug\ControlDeInventario.Form1.resources
+\\Mac\Home\Documents\4toSemestre\Estructura de Datos\ControlDeInventarioLISTAS-DOBLES\ControlDeInventario\obj\Debug\ControlDeInventario.Properties.Resources.resources
+\\Mac\Home\Documents\4toSemestre\Estructura de Datos\ControlDeInventarioLISTAS-DOBLES\ControlDeInventario\obj\Debug\ControlDeInventario.csproj.GenerateResource.Cache
